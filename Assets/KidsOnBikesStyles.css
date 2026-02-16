@@ -1,0 +1,205 @@
+@font-face {
+
+}
+@font-face {
+
+}
+.character .window-content, .equippableItem .window-content {
+	background-color: blue;
+	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+	padding:1rem;
+	color: black;
+	background-blend-mode: screen;
+}
+.custom-dialog .window-content {
+
+}
+.character .grid {
+
+}
+.character input[type=text], .equippableItem input[type=text], .custom-dialog input[type=text]{
+
+}
+.character input[type=number], .equippableItem input[type=number], .custom-dialog input[type=number]{
+
+}
+.character select, .equippableItem select, .custom-dialog select{
+
+}
+.custom-system-user-inputs td button {
+
+}
+.character summary:before, .equippableItem summary:before, .custom-dialog summary:before {
+
+}
+.character input[type="checkbox"]::before, .equippableItem input[type="checkbox"]::before, .custom-dialog input[type="checkbox"]::before {
+
+}
+.character  input[type="checkbox"]:checked::after, .equippableItem  input[type="checkbox"]:checked::after, .custom-dialog  input[type="checkbox"]:checked::after {
+
+}
+.character input[type="checkbox"]:checked::before, .equippableItem input[type="checkbox"]:checked::before,  .custom-dialog input[type="checkbox"]:checked::before {
+
+}
+.custom-dialog .form-group > label {
+
+}
+.character table, .equippableItem table, .custom-dialog table {
+
+}
+.custom-system-number-field-control {
+
+}
+.character input[type="radio"]::before, .equippableItem input[type="radio"]::before, .custom-dialog input[type="radio"]::before {
+
+}
+.character input[type="radio"]:checked::before, .character  input[type="radio"]:checked::after, .equippableItem input[type="radio"]:checked::before,  .equippableItem  i
+}
+.character .content-link, .equippableItem .content-link, .custom-dialog .content-link {
+
+}
+.custom-system-user-input-button {
+
+}
+.custom-dialog .standard-form .form-footer > button {
+
+}
+.header-fields {
+
+}
+.panelcaract {
+
+}
+.panelcaractadv  > :first-child{
+
+}
+.selectdado select{
+
+}
+.panelhab  > :first-child{
+
+}
+.descripciones label{
+
+}
+.descripciones, .descripcionesselect{
+
+}
+.descripcionesselect select{
+
+}
+.descripciones input{
+
+}
+.tabspanel nav {
+
+}
+.tabspanel nav .item.active{
+
+}
+.labadv {
+
+}
+.adv {
+
+}
+.adv input{
+
+}
+.paneladv {
+
+}
+.panvirtudes {
+
+}
+.tablavirtizq table, .tablavirtder table{
+
+}
+.tablavirtizq, .tablavirtder {
+
+}
+.tablavirtizq table{
+
+}
+.tablavirtder {
+
+}
+.paneldesc {
+
+}
+.textslab {
+
+}
+.textscont {
+
+}
+.custom-system-actor-content .profile-img-container {
+	background: url("../assets/Polaroid.webp");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding:18px 15px 51px 16px;
+	border: 0px;
+	filter: drop-shadow(3px 3px 4px black);
+}
+.charname input{
+
+}
+.chat-message {
+
+}
+.chat-message .message-content h1{
+
+}
+.chat-message .message-content h2{
+
+}
+.custom-system-roll i{
+	
+}
+.custom-system-roll {
+
+}
+.chat-message .message-header .message-sender {
+
+}
+.tablaaspectos {
+
+}
+.tablaaspectos table{
+
+}
+.tablaaspectos table tr:first-child{
+
+}
+.tablaaspectos table tr{
+
+}
+.panelaspect {
+
+}
+.paneldescpoten{
+
+}
+.paneldices {
+
+}
+.numdadopsic input{
+
+}
+.custom-system-user-inputs tbody td label{
+
+}
+.custom-system-user-inputs  thead{
+
+}
+.custom-system-user-inputs  tbody td input{
+
+}
+.custom-system-user-inputs  tbody td button{
+
+}
+.custom-system-user-inputs{
+
+}
